@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node ./proxy.js"
+  },
+  "name": "mineproxy",
+  "version": "1.0.0",
+  "main": "proxy.js",
+  "license": "MIT",
+  "dependencies": {
+    "basic-minecraft-proxy": "^2.0.1"
+  }
+}
